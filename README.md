@@ -1,6 +1,7 @@
 #RestSpringMvcMockitoProject
 
-[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/fdlessard/maven_template_app/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/fdlessard/RestSpringMvcMockitoProject.svg)](https://travis-ci.org/fdlessard/RestSpringMvcMockitoProject)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/fdlessard/RestSpringMvcMockitoProject/blob/master/LICENSE)
 
 This is just a small Rest application that displays a hello world string and dummy orders. It show how to do unit test with "full mocking" using MockMvc and the Mockito framework.
 
