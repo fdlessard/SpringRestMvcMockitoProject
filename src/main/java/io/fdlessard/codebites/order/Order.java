@@ -1,4 +1,4 @@
-package com.lessard.codesamples.order;
+package io.fdlessard.codebites.order;
 
 public class Order {
 	

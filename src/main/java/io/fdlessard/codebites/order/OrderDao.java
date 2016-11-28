@@ -1,6 +1,4 @@
-package com.lessard.codesamples.order;
-
-import com.lessard.codesamples.order.Order;
+package io.fdlessard.codebites.order;
 
 import java.util.List;
 

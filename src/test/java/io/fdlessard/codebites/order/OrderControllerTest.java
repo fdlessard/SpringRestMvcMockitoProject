@@ -1,4 +1,4 @@
-package com.lessard.codesamples.order;
+package io.fdlessard.codebites.order;
 
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -6,9 +6,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-import com.lessard.codesamples.order.Order;
-import com.lessard.codesamples.order.OrderController;
-import com.lessard.codesamples.order.OrderDao;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;

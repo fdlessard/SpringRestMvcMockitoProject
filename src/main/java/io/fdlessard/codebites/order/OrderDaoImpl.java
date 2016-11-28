@@ -1,10 +1,8 @@
-package com.lessard.codesamples.order;
+package io.fdlessard.codebites.order;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.lessard.codesamples.order.Order;
-import com.lessard.codesamples.order.OrderDao;
 import org.springframework.stereotype.Repository;
 
 @Repository
